@@ -1,0 +1,9 @@
+{
+	"redis":{
+		"Host":"127.0.0.1",
+		"Port":"6379",
+		"DB":1,
+		"Password":"sunteng",
+		"List":"list1"
+	}	
+}
